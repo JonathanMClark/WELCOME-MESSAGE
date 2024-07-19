@@ -1,6 +1,4 @@
-# READ_THIS_FIRST
-
-## Welcome to my GitHub!
+# Welcome to my GitHub!
 
 ## Most of my projects are available on my website, not here on GitHub. Some are completed and organized. Some are works in progress.
 - https://jonathanmclark.com
