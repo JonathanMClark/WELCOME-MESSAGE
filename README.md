@@ -1,14 +1,11 @@
 # Welcome to my GitHub!
 
-## Most of my projects are available on my personal website, not here on GitHub.
-Some projects are completed and organized. Some are works in progress.
-- https://jonathanmclark.com
+## Visit [my website](https://jonathanmclark.com) to view my main collection of projects.
+<br>Here are some relevant links to get you started:
 - https://jonathanmclark.com/portfolio
-- https://jonathanmclark.com/kb
 - https://jonathanmclark.com/datascience/capstone
-- https://jonathanmclark.com/doc/JonathanMClark-Resume.pdf
 - https://clarkdatascience.com
 
 ## Reach out!
-I love to connect, brainstorm, toss ideas around, troubleshoot code, and mentor early-career programmers.
+I love to connect, brainstorm, toss ideas around, discuss technical topics (STEM), troubleshoot code, and mentor early-career programmers.
 <br>Find me on LinkedIn: https://www.linkedin.com/in/jonathanclark55/
