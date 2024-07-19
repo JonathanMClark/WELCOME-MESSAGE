@@ -1,7 +1,7 @@
 # Welcome to my GitHub!
 
 ## Visit [my website](https://jonathanmclark.com) to view the main collection of my projects.
-<br>Here are some relevant links to get you started:
+Here are some relevant links to get you started:
 - https://jonathanmclark.com/portfolio
 - https://jonathanmclark.com/datascience/capstone
 - https://clarkdatascience.com
