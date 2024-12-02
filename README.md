@@ -4,7 +4,6 @@
 Here are some relevant links to get you started:
 - https://jonathanmclark.com/portfolio
 - https://jonathanmclark.com/datascience/capstone
-- https://clarkdatascience.com
 
 ## Reach out!
 I love to connect, brainstorm, toss ideas around, discuss technical topics (STEM), work math problems, troubleshoot code, and help people with programming skills.
